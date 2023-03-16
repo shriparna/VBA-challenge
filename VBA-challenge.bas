@@ -28,7 +28,7 @@ Sub StockTicker():
     For Each wsheet In Worksheets
     
         ' Reset the column by deleting the existing calculation
-        wsheet.Range("I:Q").Delete ' Shift:=xlToLeft
+        wsheet.Range("I:Q").Delete
         MsgBox ("Press OK to Start " + wsheet.Name)
         
         ' Initialize the variables
@@ -65,7 +65,7 @@ Sub StockTicker():
         GPD = 0
         TSV = 0
         
-        ' Traverse through the rowsin the current working
+        ' Traverse through the rows in the current working sheet
         For Row = 2 To TotalRowCount
             ' First time TickerChanged is Forced to true so that we can initialize the values
             If TickerChanged Then
