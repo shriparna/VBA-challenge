@@ -1,14 +1,24 @@
-# VBA-challenge
+# Module 2: VBA-challenge
 
-## Module 2: VBA-challenge activity
-<hr/>
+## Author: Shridhar Kamat.
+<hr>
 
 ### Details of the program or pseudo logic
+#### Shridhar Kamat
+#### Date: 3/16/2023
+
+Package Contents:
+
+1. 2018 Screenshot: [Screenshot 2023-03-14 at 6.16.09 PM.png](https://github.com/shriparna/VBA-challenge/blob/main/Screenshot%202023-03-14%20at%206.16.09%20PM.png)
+2. 2019 Screenshot: [Screenshot 2023-03-14 at 6.16.29 PM.png](https://github.com/shriparna/VBA-challenge/blob/main/Screenshot%202023-03-14%20at%206.16.29%20PM.png)
+3. 2020 Screenshot: [Screenshot 2023-03-14 at 6.16.48 PM.png](https://github.com/shriparna/VBA-challenge/blob/main/Screenshot%202023-03-14%20at%206.16.48%20PM.png)
+4. VBA Code: [VBA-challenge.bas](https://github.com/shriparna/VBA-challenge/blob/main/VBA-challenge.bas)
+5. Documentation: [README.md](https://github.com/shriparna/VBA-challenge/blob/main/README.md)
+
 
 <hr>
-- Program Pesudo Logic
+- Pseudo Logic  
 
-- Start of the program
 - First define all variables including for the second challenge (percentage calculation)
 - Record the starting time 
 - For each worksheet
@@ -34,4 +44,3 @@
 - This concludes for the each sheet
 - Record the ending time
 - Display the difference from end time to start time as the time taken (as one of the challenge asks us to verify it completed within 5 minutes)
-- End of the program
